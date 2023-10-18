@@ -22,24 +22,6 @@ test_df['Age'].fillna(test_df['Age'].mean(), inplace=True)
 train_df['Embarked'].fillna(train_df['Embarked'].mode()[0], inplace=True)
 test_df['Embarked'].fillna(test_df['Embarked'].mode()[0], inplace=True)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 '''
 Hacemos Featuring Engineering
 '''
