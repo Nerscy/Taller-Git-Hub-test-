@@ -1,3 +1,7 @@
+
+
+
+
 X = train_df[['Pclass', 'Age', 'Sex', 'SibSp', 'Parch', 'Fare', 'CabinBool', 'Embarked_C',
 'Embarked_S', 'Embarked_Q]]
 y = train_df[[Survived']]
