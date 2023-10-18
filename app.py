@@ -34,3 +34,4 @@ plt.xlabel('Embarked')
 plt.ylabel('Number of passengers')
 plt.title('Survival rate by port of embarkation')
 st.pyplot()
+
