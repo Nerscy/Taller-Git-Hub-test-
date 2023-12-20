@@ -1,4 +1,4 @@
-# trabajo-18-10 Taller de Git Hub
+# Taller de Git Hub
 
 ## Resumen
 
